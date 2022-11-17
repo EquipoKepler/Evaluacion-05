@@ -1,0 +1,8 @@
+1. A través de los dos siguientes enlaces se puede consultar el video de la corrida en Gazebo 
+ 1.1. Por drive:
+
+	https://drive.google.com/file/d/1GDhJLAO5RII4Nr2Pyxtzt7CuWb2fHHzI/view?usp=sharing
+        
+ 1.2. Por Youtube: 
+		
+  https://youtu.be/QSpBcvCRDeI
