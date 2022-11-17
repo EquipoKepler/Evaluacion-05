@@ -4,8 +4,9 @@
 
 ## En en el repositorio se podrán ubicar varios documentos, cada uno de ellos cuenta con una parte importante de la evaluación:
 
-- Path_planning_stage05.launch : Este es el documento el cual corre la simulación.
+-Pot_fields_version2.py: Es el archivo encargado de controlar el movimiento del robot durante su recorrido, mediante el uso de campos potenciales. 
 
-- Pot_fields_version2(1).py : En él se utilizan los campos potenciales artificiales.
+-Code_meta05.py: En este archivo se lleva a cabo el movimiento de los grupos del robot, el reconocimiento de patrones, publicaciones de transformadas y se manda a llamar las funciones de Pot_fields_version2.py
 
-- Code_meta05.py : Este archivo estima las posiciones de escaneo del robot.
+-Path_planning_stage05.launch: Gracias a este archive se Lanza el simulador y los archivos mencionados anteriormente en conjunto. 
+
