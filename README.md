@@ -8,6 +8,6 @@
 
 -Code_meta05.py: En este archivo se lleva a cabo el movimiento de los grupos del robot, el reconocimiento de patrones, publicaciones de transformadas y se manda a llamar las funciones de Pot_fields_version2.py
 
--Path_planning_stage05.launch: Gracias a este archive se Lanza el simulador y los archivos mencionados anteriormente en conjunto. 
+-Path_planning_stage05.launch: Gracias a este archivo se lanza el simulador y los archivos mencionados anteriormente en conjunto. 
 
 -Enlace de corrida en gazebo: Aqui se encuentran los enlaces para acceder a las grabaciones del simulador
