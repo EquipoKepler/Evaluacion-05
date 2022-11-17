@@ -10,3 +10,4 @@
 
 -Path_planning_stage05.launch: Gracias a este archive se Lanza el simulador y los archivos mencionados anteriormente en conjunto. 
 
+-Enlace de corrida en gazebo: Aqui se encuentran los enlaces para acceder a las grabaciones del simulador
