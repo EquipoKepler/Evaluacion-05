@@ -4,10 +4,10 @@
 
 ## En en el repositorio se podrán ubicar varios documentos, cada uno de ellos cuenta con una parte importante de la evaluación:
 
-- Stage04_meta04_path_planning (1).launch : Este es el documento el cual corre la simulación.
+- Path_planning_stage05.launch : Este es el documento el cual corre la simulación.
 
 - Pot_fields_version2(1).py : En él se utilizan los campos potenciales artificiales.
 
-- Movimiento(1).py : Este archivo estima las posiciones de escaneo del robot.
+- Code_meta05.py : Este archivo estima las posiciones de escaneo del robot.
 
 - Mapa: En esta carpeta se encuentran los 2 archivos del mapeado.
