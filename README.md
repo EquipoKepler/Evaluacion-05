@@ -9,5 +9,3 @@
 - Pot_fields_version2(1).py : En él se utilizan los campos potenciales artificiales.
 
 - Code_meta05.py : Este archivo estima las posiciones de escaneo del robot.
-
-- Mapa: En esta carpeta se encuentran los 2 archivos del mapeado.
